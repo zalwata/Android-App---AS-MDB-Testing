@@ -1,0 +1,2 @@
+rootProject.name='MongoDB Testing -- EDMTDev092716'
+include ':app'
